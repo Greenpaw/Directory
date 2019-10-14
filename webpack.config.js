@@ -1,7 +1,7 @@
 'use strict'
 
 module.exports = {
-    entry: "./index",
+    entry: "./src/index.html",
     output: {
         filename: "build.js",
     }
